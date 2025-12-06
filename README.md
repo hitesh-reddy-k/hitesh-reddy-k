@@ -75,10 +75,8 @@ Full stack online food ordering system with dashboard.
 ---
 
 ## 📬 Contact Me
-- **Email:** your-email@example.com  
-- **Instagram:** your-instagram  
-- **LinkedIn:** your-linkedin  
-- **YouTube:** your channel link  
+- **Email:** hiteshreddyai@gmail.com  
+- **Instagram:** hitesh_Reddy_k_hrk  
 
 ---
 
