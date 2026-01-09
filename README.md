@@ -80,6 +80,10 @@ Full stack online food ordering system with dashboard.
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?hitesh-reddy-k=DenverCoder1)](https://git.io/streak-stats)
+
+---
+
 ## 👀 Profile Views
 ![Profile views](https://komarev.com/ghpvc/?username=hiteshreddy&style=flat-square)
 
