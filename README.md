@@ -62,12 +62,29 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hitesh-reddy-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-reddy-k&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=hitesh-reddy-k&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hitesh-reddy-k&theme=tokyonight&hide_border=true&stroke=0000&background=1A1B27&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hitesh-reddy-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-reddy-k&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hitesh-reddy-k&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+---
+
+## 🔥 Contribution Streak & Consistency
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-reddy-k&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hitesh-reddy-k&theme=tokyonight" alt="Profile Details" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hitesh-reddy-k&theme=tokyonight" alt="Stats" />
 </div>
 
 ---
@@ -100,8 +117,6 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hitesh-reddy-k&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
-
----
 
 ## 🤝 Connect with Me
 
